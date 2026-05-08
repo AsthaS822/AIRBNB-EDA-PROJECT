@@ -1,4 +1,4 @@
-Retail Sales Analysis Dashboard
+##Retail Sales Analysis Dashboard##
 Overview
 
 This project is a Retail Sales Analysis Dashboard created using Microsoft Power BI and Python.
@@ -20,6 +20,16 @@ Python
 Pandas
 NumPy
 Matplotlib
+
+Skills Applied:
+Data Analysis
+Data Visualization
+Dashboard Design
+Business Intelligence
+Interactive Reporting
+Python Programming
+Power BI Dashboard Development
+
 Dashboard Features
 Dashboard 1: Overall Sales Analysis
 
@@ -112,11 +122,5 @@ file_path = r'YOUR_DATASET_PATH'
 Run the Python file
 python retail_sales_analysis.py
 Open the .pbix file in Microsoft Power BI Desktop to view the dashboard.
-Skills Demonstrated
-Data Analysis
-Data Visualization
-Dashboard Design
-Business Intelligence
-Interactive Reporting
-Python Programming
-Power BI Dashboard Development
+
+
